@@ -26,3 +26,9 @@ C:\Users\Mikhail\Desktop\4.1 курс\WT\6\wt-lab6-6minimalapi-ageyavich\obj\Deb
 C:\Users\Mikhail\Desktop\4.1 курс\WT\6\wt-lab6-6minimalapi-ageyavich\obj\Debug\net10.0\wt-lab6-6minimalapi-ageyavich.pdb
 C:\Users\Mikhail\Desktop\4.1 курс\WT\6\wt-lab6-6minimalapi-ageyavich\obj\Debug\net10.0\wt-lab6-6minimalapi-ageyavich.genruntimeconfig.cache
 C:\Users\Mikhail\Desktop\4.1 курс\WT\6\wt-lab6-6minimalapi-ageyavich\obj\Debug\net10.0\ref\wt-lab6-6minimalapi-ageyavich.dll
+C:\Users\Mikhail\Desktop\4.1 курс\WT\6\wt-lab6-6minimalapi-ageyavich\obj\Debug\net10.0\wt-lab6-6minimalapi-ageyavich.sourcelink.json
+C:\Users\Mikhail\Desktop\4.1 курс\WT\6\wt-lab6-6minimalapi-ageyavich\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Mikhail\Desktop\4.1 курс\WT\6\wt-lab6-6minimalapi-ageyavich\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\Mikhail\Desktop\4.1 курс\WT\6\wt-lab6-6minimalapi-ageyavich\obj\Debug\net10.0\wt-lab6-6minimalapi-ageyavich.csproj.AssemblyReference.cache
+C:\Users\Mikhail\Desktop\4.1 курс\WT\6\wt-lab6-6minimalapi-ageyavich\obj\Debug\net10.0\wt-lab6-6minimalapi-ageyavich.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mikhail\Desktop\4.1 курс\WT\6\wt-lab6-6minimalapi-ageyavich\obj\Debug\net10.0\wt-lab6-.8126756C.Up2Date

@@ -2,9 +2,6 @@ using wt_lab6_6minimalapi_ageyavich.Data;
 using wt_lab6_6minimalapi_ageyavich.Models;
 
 var builder = WebApplication.CreateBuilder(args);
-var app = builder.Build();
-
-var builder = WebApplication.CreateBuilder(args);
 
 // Добавляем поддержку OpenAPI
 builder.Services.AddOpenApi(); 
