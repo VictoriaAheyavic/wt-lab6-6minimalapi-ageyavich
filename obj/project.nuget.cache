@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VmcTaW/0feo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mikhail\\Desktop\\4.1 курс\\WT\\6\\wt-lab6-6minimalapi-ageyavich\\wt-lab6-6minimalapi-ageyavich.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mikhail\\.nuget\\packages\\microsoft.aspnetcore.openapi\\11.0.0\\microsoft.aspnetcore.openapi.11.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
